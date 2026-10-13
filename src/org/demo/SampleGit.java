@@ -10,7 +10,7 @@ public class SampleGit {
 	public static void main(String[] args) {
 		
 		SampleGit sg = new SampleGit();
-		sg.empName();
+		sg.empName(); 
 		
 	}
 
